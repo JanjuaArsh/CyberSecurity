@@ -23,4 +23,12 @@ Computer security, cybersecurity or information technology security is the prote
 - Integrity
 - Availability
 
+### Other improtant terminology
+- Vulnerability
+ A Vulnerability is any loophole, weakness or flaw in the system that any hacker can exploit.
+- Threat
+ An event that has potential of causing harm, usually difficult to identify in advanced.
+- Risk
+  Potential for loss or damage caused by a threat.
+
 
